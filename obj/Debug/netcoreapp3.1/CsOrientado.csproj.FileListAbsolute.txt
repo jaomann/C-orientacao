@@ -1,0 +1,14 @@
+C:\Users\João Emanuel\source\repos\CsOrientado\bin\Debug\netcoreapp3.1\CsOrientado.exe
+C:\Users\João Emanuel\source\repos\CsOrientado\bin\Debug\netcoreapp3.1\CsOrientado.deps.json
+C:\Users\João Emanuel\source\repos\CsOrientado\bin\Debug\netcoreapp3.1\CsOrientado.runtimeconfig.json
+C:\Users\João Emanuel\source\repos\CsOrientado\bin\Debug\netcoreapp3.1\CsOrientado.runtimeconfig.dev.json
+C:\Users\João Emanuel\source\repos\CsOrientado\bin\Debug\netcoreapp3.1\CsOrientado.dll
+C:\Users\João Emanuel\source\repos\CsOrientado\bin\Debug\netcoreapp3.1\CsOrientado.pdb
+C:\Users\João Emanuel\source\repos\CsOrientado\obj\Debug\netcoreapp3.1\CsOrientado.csproj.AssemblyReference.cache
+C:\Users\João Emanuel\source\repos\CsOrientado\obj\Debug\netcoreapp3.1\CsOrientado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João Emanuel\source\repos\CsOrientado\obj\Debug\netcoreapp3.1\CsOrientado.AssemblyInfoInputs.cache
+C:\Users\João Emanuel\source\repos\CsOrientado\obj\Debug\netcoreapp3.1\CsOrientado.AssemblyInfo.cs
+C:\Users\João Emanuel\source\repos\CsOrientado\obj\Debug\netcoreapp3.1\CsOrientado.csproj.CoreCompileInputs.cache
+C:\Users\João Emanuel\source\repos\CsOrientado\obj\Debug\netcoreapp3.1\CsOrientado.dll
+C:\Users\João Emanuel\source\repos\CsOrientado\obj\Debug\netcoreapp3.1\CsOrientado.pdb
+C:\Users\João Emanuel\source\repos\CsOrientado\obj\Debug\netcoreapp3.1\CsOrientado.genruntimeconfig.cache
